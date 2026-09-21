@@ -1,0 +1,14 @@
+[
+  {"record_id": "EX01", "name": "demo_alpha", "smiles": "CCO", "tg_value": 25, "tg_unit": "C", "is_synthetic": true},
+  {"record_id": "EX02", "name": "demo_beta", "smiles": "CC", "tg_value": 310, "tg_unit": "K", "is_synthetic": true},
+  {"record_id": "EX03", "name": "demo_gamma", "smiles": "CCC", "tg_value": "-20", "tg_unit": " c ", "is_synthetic": true},
+  {"record_id": "EX04", "name": "demo_missing", "smiles": "CO", "tg_value": "", "tg_unit": "C", "is_synthetic": true},
+  {"record_id": "EX05", "name": "demo_text", "smiles": "CCO", "tg_value": "warm", "tg_unit": "C", "is_synthetic": true},
+  {"record_id": "EX06", "name": "demo_unit", "smiles": "CC", "tg_value": 40, "tg_unit": "unknown", "is_synthetic": true},
+  {"record_id": "EX07", "name": "demo_zero", "smiles": "CCC", "tg_value": 0, "tg_unit": "K", "is_synthetic": true},
+  {"record_id": "EX08", "name": "demo_negative", "smiles": "CO", "tg_value": -300, "tg_unit": "C", "is_synthetic": true},
+  {"record_id": "EX09", "name": "demo_structure", "smiles": "not_a_smiles", "tg_value": 100, "tg_unit": "C", "is_synthetic": true},
+  {"record_id": "EX10", "name": "demo_delta", "smiles": "CC(=O)O", "tg_value": 50, "tg_unit": "C", "is_synthetic": true},
+  {"record_id": "EX02", "name": "demo_beta", "smiles": "CC", "tg_value": 310, "tg_unit": "K", "is_synthetic": true},
+  {"record_id": "EX11", "name": "demo_epsilon", "smiles": "", "tg_value": 350, "tg_unit": "K", "is_synthetic": true}
+]

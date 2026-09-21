@@ -1,0 +1,22 @@
+# Python environments and generated caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Generated exercise output; keep handwritten code and notes tracked
+output/
+htmlcov/
+.coverage
+
+# Machine-specific settings and credentials
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
