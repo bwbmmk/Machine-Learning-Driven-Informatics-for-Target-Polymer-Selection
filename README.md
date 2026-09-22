@@ -5,6 +5,7 @@ I'm learning,maybe no useful things you want.
 
 ## 从这里开始
 
+- **第一次做题先看 [怎么开始](python_handson_pack/START_HERE.md)**：具体打开哪个文件、第一步写什么、怎么运行和看报错。
 - [完整练习包说明](python_handson_pack/README.md)：12 个主线关卡、4 个选做扩展。
 - [下载 ZIP](releases/python_handson_pack.zip)：可独立解压使用；[SHA256 校验文件](releases/python_handson_pack.zip.sha256)。
 - [学习路线](python_handson_pack/ROADMAP.md)与[学习进度](python_handson_pack/PROGRESS.md)。
@@ -23,6 +24,8 @@ py check.py P01
 ```
 
 如果本机使用 `python` 命令，可以替换 `py`。打开 `lessons/p01_read/README.md`，然后亲手填写同目录的 `task.py`。前九关仅使用标准库，后期依赖见[环境说明](python_handson_pack/ENVIRONMENT.md)。
+
+上面的 `py check.py P01` 会检查整关。第一次只写读取函数时，请用入门指南里的单项检查；没有写完的部分报错属于正常情况。
 
 骨架未实现时出现 `NotImplementedError` 或测试失败是正常的；测试是待达成的目标。样例均为教学数据，不代表真实材料实验或模型效果。
 

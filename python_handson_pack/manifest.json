@@ -2,97 +2,97 @@
   {
     "id": "P01",
     "folder": "lessons/p01_read",
-    "title": "读入文件并预览",
+    "title": "打开数据文件，显示前几条记录",
     "dependencies": "无"
   },
   {
     "id": "P02",
     "folder": "lessons/p02_query",
-    "title": "查询与重复记录",
+    "title": "按编号或名字查资料",
     "dependencies": "P01"
   },
   {
     "id": "P03",
     "folder": "lessons/p03_units",
-    "title": "温度转换与边界",
+    "title": "把温度统一成一种单位",
     "dependencies": "P01"
   },
   {
     "id": "P04",
     "folder": "lessons/p04_validate",
-    "title": "批量校验与逐行报告",
+    "title": "逐条检查资料，写出哪里有问题",
     "dependencies": "P03"
   },
   {
     "id": "P05",
     "folder": "lessons/p05_clean",
-    "title": "清洗去重和保存",
+    "title": "去掉错误和重复资料，再保存文件",
     "dependencies": "P03、P04"
   },
   {
     "id": "P06",
     "folder": "lessons/p06_debug",
-    "title": "修复三个缺陷并自己写测试",
+    "title": "找出三个小错误，并证明修好了",
     "dependencies": "P05"
   },
   {
     "id": "P07",
     "folder": "lessons/p07_modules",
-    "title": "组合模块形成处理流程",
+    "title": "把前面写好的函数接起来",
     "dependencies": "P01、P05、P06"
   },
   {
     "id": "P08",
     "folder": "lessons/p08_cli",
-    "title": "带预览功能的命令行工具",
+    "title": "用一条终端命令运行你的程序",
     "dependencies": "P07"
   },
   {
     "id": "P09",
     "folder": "lessons/p09_stats",
-    "title": "筛选排序与摘要",
+    "title": "按温度筛选、排名，再算平均值",
     "dependencies": "P05；建议完成 P08"
   },
   {
     "id": "P10",
     "folder": "lessons/p10_pandas",
-    "title": "用 Pandas 对照实现",
+    "title": "用 Pandas 再做一次筛选和统计",
     "dependencies": "P09；需 pandas"
   },
   {
     "id": "P11",
     "folder": "lessons/p11_plot",
-    "title": "图表与短报告",
+    "title": "把温度画成两张图片",
     "dependencies": "P09；需 matplotlib，P10建议完成"
   },
   {
     "id": "P12",
     "folder": "lessons/p12_capstone",
-    "title": "独立完成名字筛选小改版",
+    "title": "做一个能按名字和温度找资料的小工具",
     "dependencies": "P08、P09；P10/P11可后补"
   },
   {
     "id": "E01",
     "folder": "lessons/e01_import",
-    "title": "数据导入与来源记录",
+    "title": "把另一张表改成程序认识的格式（选做）",
     "dependencies": "P08；选做"
   },
   {
     "id": "E02",
     "folder": "lessons/e02_rdkit",
-    "title": "结构解析与少量描述符",
+    "title": "试用一个读取分子字符串的工具（选做）",
     "dependencies": "P07；需 rdkit，选做"
   },
   {
     "id": "E03",
     "folder": "lessons/e03_ml",
-    "title": "离线回归 API 练习",
+    "title": "试一次“用一部分数据学习，用另一部分检查”（选做）",
     "dependencies": "P09；需 scikit-learn，选做"
   },
   {
     "id": "E04",
     "folder": "lessons/e04_security",
-    "title": "本地日志与文件完整性",
+    "title": "统计登录失败次数，检查文件是否变化（选做）",
     "dependencies": "P08；选做，标准库"
   }
 ]

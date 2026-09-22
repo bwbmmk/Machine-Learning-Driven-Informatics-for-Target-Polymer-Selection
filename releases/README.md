@@ -1,6 +1,6 @@
 # 发布包
 
-- [python_handson_pack.zip](python_handson_pack.zip)：原有完整练习材料快照，本次整理仅移动文件。
+- [python_handson_pack.zip](python_handson_pack.zip)：完整练习材料快照，已更新入门指南和 16 关的易读说明。
 - [SHA256 校验文件](python_handson_pack.zip.sha256)：与 ZIP 一同保留。
 
 日常写代码请使用仓库中的 `python_handson_pack/`。ZIP 不会随练习自动更新；不要把旧 ZIP 解压覆盖已经写过的代码。
