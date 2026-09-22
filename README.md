@@ -1,3 +1,4 @@
+I'm learning,maybe no useful things you want. 
 # 用聚合物项目练习 Python
 
 这个仓库记录一名信息安全专业学生的 Python 编程练习。Project 1 提供应用背景；当前重点是亲手写代码，逐步掌握文件处理、函数、调试、模块、命令行、数据分析和表达。
