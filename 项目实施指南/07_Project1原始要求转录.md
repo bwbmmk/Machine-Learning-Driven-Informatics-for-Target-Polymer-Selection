@@ -2,7 +2,7 @@
 
 > 原题保留作背景。当前目标已改为提高 Python 编程能力，不要求完成全部交付；下文末尾提到的旧版 24 张卡等规划已被 P01–P12 练习路线替代。
 
-来源：根目录 `Project 1(1).docx`。本转录从 Word 正文和公式文本提取，保留内容并以 Markdown 重排；Tg 和 R² 分别对应原文公式中的下标与上标。以原始 Word 文件为最终依据。
+来源：[原始 Word 文件](<../references/Project 1(1).docx>)。本转录从 Word 正文和公式文本提取，保留内容并以 Markdown 重排；Tg 和 R² 分别对应原文公式中的下标与上标。以原始 Word 文件为最终依据。
 
 ## Project 1: Machine Learning-Driven Informatics for Target Polymer Selection
 

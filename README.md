@@ -5,11 +5,11 @@
 ## 从这里开始
 
 - [完整练习包说明](python_handson_pack/README.md)：12 个主线关卡、4 个选做扩展。
-- [下载 ZIP](python_handson_pack.zip)：可独立解压使用；[SHA256 校验文件](python_handson_pack.zip.sha256)。
+- [下载 ZIP](releases/python_handson_pack.zip)：可独立解压使用；[SHA256 校验文件](releases/python_handson_pack.zip.sha256)。
 - [学习路线](python_handson_pack/ROADMAP.md)与[学习进度](python_handson_pack/PROGRESS.md)。
 - [AI 助教提示词](python_handson_pack/AI_TUTOR.md)：先提示，再审阅，让学习者亲手实现。
 - [项目实施指南](项目实施指南/00_从这里开始.md)：总体规划及完整科研项目的备用参考。
-- [原始项目要求](<Project 1(1).docx>)。
+- [原始项目要求](<references/Project 1(1).docx>)。
 
 ## 开始练习
 
@@ -31,10 +31,15 @@ py check.py P01
 |---|---|
 | `python_handson_pack/` | 当前主线；题目、骨架、输入、测试、提示与个人记录 |
 | `项目实施指南/` | 学习规划和后期科研参考 |
-| `python_practice/` | 早期第一题练习，保留参考 |
 | `demo/` | 自己的小练习 |
-| `_learning_pack_build/` | 初始练习包生成脚本；开始写题后不要用它覆盖已有练习 |
-| 根目录的 `p01_read/` 等散放目录，以及同名长标题目录 | 早期网页上传的副本，保留内容；继续练习统一使用 `python_handson_pack/lessons/` |
+| `references/` | 原始项目要求与 Git 工作流程图 |
+| `releases/` | 可独立使用的 ZIP 快照与校验文件 |
+| `archive/` | 早期第一题、散放题目和旧版上传副本，按来源归档 |
+| `tools/` | 初始练习包生成脚本；开始写题后不要用它覆盖已有练习 |
+
+日常只需打开 `python_handson_pack/`，在 `lessons/` 中写代码，在 `PROGRESS.md` 中记录进度。想写独立小实验时使用 `demo/`；查原题时使用 `references/`。
+
+整理只移动材料并更新导航，没有合并或删除旧版练习。原目录去向见[归档说明](archive/README.md)。历史文件保留当时的说明和路径，当前执行方式以本页及完整练习包为准。
 
 ## 后续同步
 

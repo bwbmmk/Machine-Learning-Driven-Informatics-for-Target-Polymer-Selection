@@ -1,0 +1,119 @@
+ README.md                                          |  15 [32m+[m[31m-[m
+ archive/README.md                                  |  15 [32m+[m
+ .../github_upload}/Project 1(1).docx               | Bin
+ .../github_upload}/demo/hello world.py             |   2 [32m+[m[31m-[m
+ .../git-workflow-runoob-1770781044589.svg          |   0
+ .../python_practice/01_read_records.py             |   0
+ .../github_upload}/python_practice/README.md       |   0
+ .../python_practice/data/teaching_records.json     |   0
+ ...56\236\346\226\275\346\214\207\345\215\227.zip" | Bin
+ ...277\231\351\207\214\345\274\200\345\247\213.md" |   0
+ ...200\273\344\275\223\350\267\257\347\272\277.md" |   0
+ ...257\217\345\221\250\345\256\211\346\216\222.md" |   0
+ ...256\236\347\216\260\350\247\204\350\214\203.md" |   0
+ ...232\204\344\273\273\345\212\241\345\215\241.md" |   0
+ ...255\246\344\271\240\350\265\204\346\226\231.md" |   0
+ ...272\244\346\216\245\346\250\241\346\235\277.md" |   0
+ ...246\201\346\261\202\350\275\254\345\275\225.md" |   0
+ {data => archive/loose_lessons/data}/README.md     |  32 [32m+[m[31m-[m
+ {data => archive/loose_lessons/data}/empty.json    |   2 [32m+[m[31m-[m
+ .../loose_lessons/data}/malformed.json             |   2 [32m+[m[31m-[m
+ .../loose_lessons/data}/provider_sample.csv        |   8 [32m+[m[31m-[m
+ .../loose_lessons/data}/smiles_examples.json       |  14 [32m+[m[31m-[m
+ .../loose_lessons/data}/synthetic_events.json      |  64 [32m+[m[31m-[m
+ .../loose_lessons}/data/teaching_records.json      |   0
+ .../loose_lessons/data}/toy_regression.json        | 844 [32m++++++++++[m[31m-----------[m
+ .../loose_lessons/data}/wrong_root.json            |   2 [32m+[m[31m-[m
+ .../loose_lessons/e01_import}/HINTS.md             |  20 [32m+[m[31m-[m
+ .../loose_lessons/e01_import}/NOTES.md             |  16 [32m+[m[31m-[m
+ .../loose_lessons/e01_import}/README.md            |  84 [32m+[m[31m-[m
+ .../loose_lessons/e01_import}/SOURCE_NOTES.md      |  20 [32m+[m[31m-[m
+ .../loose_lessons/e01_import}/__init__.py          |   2 [32m+[m[31m-[m
+ .../loose_lessons/e01_import}/task.py              |  18 [32m+[m[31m-[m
+ .../loose_lessons/e01_import}/test_task.py         |  54 [32m+[m[31m-[m
+ .../loose_lessons/e01_import}/variations.py        |   2 [32m+[m[31m-[m
+ .../loose_lessons/e02_rdkit}/HINTS.md              |  20 [32m+[m[31m-[m
+ .../loose_lessons/e02_rdkit}/NOTES.md              |  16 [32m+[m[31m-[m
+ .../loose_lessons/e02_rdkit}/README.md             |  82 [32m+[m[31m-[m
+ .../loose_lessons/e02_rdkit}/__init__.py           |   2 [32m+[m[31m-[m
+ .../loose_lessons/e02_rdkit}/task.py               |   6 [32m+[m[31m-[m
+ .../loose_lessons/e02_rdkit}/test_task.py          |  56 [32m+[m[31m-[m
+ .../loose_lessons/e02_rdkit}/variations.py         |   2 [32m+[m[31m-[m
+ {e03_ml => archive/loose_lessons/e03_ml}/HINTS.md  |  20 [32m+[m[31m-[m
+ .../loose_lessons/e03_ml}/NOTES.md                 |  16 [32m+[m[31m-[m
+ {e03_ml => archive/loose_lessons/e03_ml}/README.md |  84 [32m+[m[31m-[m
+ .../loose_lessons/e03_ml}/__init__.py              |   2 [32m+[m[31m-[m
+ {e03_ml => archive/loose_lessons/e03_ml}/task.py   |   6 [32m+[m[31m-[m
+ .../loose_lessons/e03_ml}/test_task.py             |  82 [32m+[m[31m-[m
+ .../loose_lessons/e03_ml}/variations.py            |   2 [32m+[m[31m-[m
+ .../loose_lessons/e04_security}/HINTS.md           |  20 [32m+[m[31m-[m
+ .../loose_lessons/e04_security}/NOTES.md           |  16 [32m+[m[31m-[m
+ .../loose_lessons/e04_security}/README.md          |  82 [32m+[m[31m-[m
+ .../loose_lessons/e04_security}/__init__.py        |   2 [32m+[m[31m-[m
+ .../loose_lessons/e04_security}/task.py            |  18 [32m+[m[31m-[m
+ .../loose_lessons/e04_security}/test_task.py       |  52 [32m+[m[31m-[m
+ .../loose_lessons/e04_security}/variations.py      |   2 [32m+[m[31m-[m
+ .../loose_lessons/p01_read}/HINTS.md               |  20 [32m+[m[31m-[m
+ archive/loose_lessons/p01_read/NOTES.md            |   8 [32m+[m
+ .../loose_lessons/p01_read}/README.md              |  84 [32m+[m[31m-[m
+ archive/loose_lessons/p01_read/__init__.py         |   1 [32m+[m
+ .../loose_lessons/p01_read}/task.py                |  34 [32m+[m[31m-[m
+ .../loose_lessons/p01_read}/test_task.py           |  66 [32m+[m[31m-[m
+ archive/loose_lessons/p01_read/variations.py       |   1 [32m+[m
+ .../loose_lessons/p02_query}/HINTS.md              |  20 [32m+[m[31m-[m
+ archive/loose_lessons/p02_query/NOTES.md           |   8 [32m+[m
+ .../loose_lessons/p02_query}/README.md             |  82 [32m+[m[31m-[m
+ archive/loose_lessons/p02_query/__init__.py        |   1 [32m+[m
+ .../loose_lessons/p02_query}/task.py               |  10 [32m+[m[31m-[m
+ .../loose_lessons/p02_query}/test_task.py          |  50 [32m+[m[31m-[m
+ archive/loose_lessons/p02_query/variations.py      |   1 [32m+[m
+ .../loose_lessons/p03_units}/HINTS.md              |  20 [32m+[m[31m-[m
+ archive/loose_lessons/p03_units/NOTES.md           |   8 [32m+[m
+ .../loose_lessons/p03_units}/README.md             |  82 [32m+[m[31m-[m
+ archive/loose_lessons/p03_units/__init__.py        |   1 [32m+[m
+ .../loose_lessons/p03_units}/task.py               |  14 [32m+[m[31m-[m
+ .../loose_lessons/p03_units}/test_task.py          |  56 [32m+[m[31m-[m
+ archive/loose_lessons/p03_units/variations.py      |   1 [32m+[m
+ .../loose_lessons/p04_validate}/HINTS.md           |  20 [32m+[m[31m-[m
+ archive/loose_lessons/p04_validate/NOTES.md        |   8 [32m+[m
+ .../loose_lessons/p04_validate}/README.md          |  80 [32m+[m[31m-[m
+ archive/loose_lessons/p04_validate/__init__.py     |   1 [32m+[m
+ .../loose_lessons/p04_validate}/task.py            |  14 [32m+[m[31m-[m
+ .../loose_lessons/p04_validate}/test_task.py       |  62 [32m+[m[31m-[m
+ archive/loose_lessons/p04_validate/variations.py   |   1 [32m+[m
+ .../loose_lessons/p05_clean}/HINTS.md              |  20 [32m+[m[31m-[m
+ archive/loose_lessons/p05_clean/NOTES.md           |   8 [32m+[m
+ .../loose_lessons/p05_clean}/README.md             |  88 [32m+[m[31m--[m
+ .../loose_lessons/p05_clean}/task.py               |  22 [32m+[m[31m-[m
+ .../loose_lessons/p05_clean}/test_task.py          | 114 [32m+[m[31m--[m
+ archive/loose_lessons/p05_clean/variations.py      |   1 [32m+[m
+ .../python_practice}/01_read_records.py            |   0
+ .../python_practice}/README.md                     |   6 [32m+[m[31m-[m
+ .../python_practice/data}/teaching_records.json    |  28 [32m+[m[31m-[m
+ p01_read/NOTES.md                                  |   8 [31m-[m
+ p01_read/__init__.py                               |   1 [31m-[m
+ p01_read/variations.py                             |   1 [31m-[m
+ p02_query/NOTES.md                                 |   8 [31m-[m
+ p02_query/__init__.py                              |   1 [31m-[m
+ p02_query/variations.py                            |   1 [31m-[m
+ p03_units/NOTES.md                                 |   8 [31m-[m
+ p03_units/__init__.py                              |   1 [31m-[m
+ p03_units/variations.py                            |   1 [31m-[m
+ p04_validate/NOTES.md                              |   8 [31m-[m
+ p04_validate/__init__.py                           |   1 [31m-[m
+ p04_validate/variations.py                         |   1 [31m-[m
+ p05_clean/NOTES.md                                 |   8 [31m-[m
+ p05_clean/variations.py                            |   1 [31m-[m
+ Project 1(1).docx => references/Project 1(1).docx  | Bin
+ references/README.md                               |   7 [32m+[m
+ .../git-workflow-runoob-1770781044589.svg          |   0
+ releases/README.md                                 |   8 [32m+[m
+ .../python_handson_pack.zip                        | Bin
+ .../python_handson_pack.zip.sha256                 |   0
+ tools/README.md                                    |   7 [32m+[m
+ {_learning_pack_build => tools}/build_pack.py      |   5 [32m+[m[31m-[m
+ ...277\231\351\207\214\345\274\200\345\247\213.md" |  10 [32m+[m[31m-[m
+ ...256\236\347\216\260\350\247\204\350\214\203.md" |   2 [32m+[m[31m-[m
+ ...232\204\344\273\273\345\212\241\345\215\241.md" |   2 [32m+[m[31m-[m
+ ...246\201\346\261\202\350\275\254\345\275\225.md" |   2 [32m+[m[31m-[m
+ 118 files changed, 1491 insertions(+), 1446 deletions(-)
