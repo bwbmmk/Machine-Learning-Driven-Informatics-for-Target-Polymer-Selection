@@ -1,0 +1,9 @@
+record_id,name,tg_value,tg_unit
+A01,sample_alpha,25,C
+A02,sample_beta,310,K
+A03,sample_gamma,-20,C
+A04,sample_missing,,C
+A05,sample_text,warm,C
+A06,sample_delta,50,C
+A02,sample_beta,310,K
+A07,sample_epsilon,350,K
